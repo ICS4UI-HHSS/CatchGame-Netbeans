@@ -20,7 +20,7 @@ public class CatchGame {
      * (create people, set positions, etc.)
      */
     public CatchGame(){
-        Board b = new Board(10,10);
+        
     }
     
     /**
